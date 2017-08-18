@@ -1,0 +1,7 @@
+Algorithm.VC.VC.opendb
+Algorithm.VC.db
+Debug/
+*/Debug/
+.vs/
+*/*.*.filters
+*/*.*.user
